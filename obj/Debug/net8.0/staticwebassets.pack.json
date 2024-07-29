@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets/blog-details.html"
     },
     {
-      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/blog.html",
-      "PackagePath": "staticwebassets/blog.html"
-    },
-    {
       "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/check-out.html",
       "PackagePath": "staticwebassets/check-out.html"
     },
@@ -717,14 +713,6 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/login.html",
-      "PackagePath": "staticwebassets/login.html"
-    },
-    {
-      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/main.html",
-      "PackagePath": "staticwebassets/main.html"
-    },
-    {
       "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/product.html",
       "PackagePath": "staticwebassets/product.html"
     },
@@ -735,10 +723,6 @@
     {
       "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/register.html",
       "PackagePath": "staticwebassets/register.html"
-    },
-    {
-      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/shop.html",
-      "PackagePath": "staticwebassets/shop.html"
     },
     {
       "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/shopping-cart.html",

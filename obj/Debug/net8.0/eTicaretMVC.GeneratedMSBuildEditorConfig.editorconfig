@@ -18,12 +18,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /Users/mehmetcanece/Desktop/eTicaretMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mehmetcanece/Desktop/eTicaretMVC/Views/Shared/Error.cshtml]
