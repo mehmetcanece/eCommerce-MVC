@@ -365,3 +365,4 @@
 /Users/mehmetcanece/Desktop/eTicaretMVC/obj/Debug/net8.0/eTicaretMVC.csproj.AssemblyReference.cache
 /Users/mehmetcanece/Desktop/eTicaretMVC/obj/Debug/net8.0/eTicaretMVC.MvcApplicationPartsAssemblyInfo.cs
 /Users/mehmetcanece/Desktop/eTicaretMVC/obj/Debug/net8.0/eTicaret.C2186517.Up2Date
+/Users/mehmetcanece/Desktop/eTicaretMVC/obj/Debug/net8.0/eTicaretMVC.sourcelink.json
