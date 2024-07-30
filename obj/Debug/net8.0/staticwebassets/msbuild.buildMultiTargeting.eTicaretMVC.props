@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/eTicaretMVC.props" />
+</Project>

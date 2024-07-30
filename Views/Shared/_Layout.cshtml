@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+@{
+    await Html.RenderPartialAsync("_Head");
+}
+
+
+<body>
+    @{
+        await Html.RenderPartialAsync("_PreLoader");
+    }
+    @{
+        await Html.RenderPartialAsync("_Header");
+    }
+
+    @RenderBody()
+
+    @{
+        await Html.RenderPartialAsync("_PartnerLogo");
+    }
+
+    @{
+        await Html.RenderPartialAsync("_Footer");
+    }
+    @{
+        await Html.RenderPartialAsync("_Scripts");
+    }
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

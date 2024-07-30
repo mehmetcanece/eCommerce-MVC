@@ -1,0 +1,749 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/obj/Debug/net8.0/scopedcss/projectbundle/eTicaretMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/eTicaretMVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/blog-details.html",
+      "PackagePath": "staticwebassets/blog-details.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/check-out.html",
+      "PackagePath": "staticwebassets/check-out.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/elegant-icons.css",
+      "PackagePath": "staticwebassets/css/elegant-icons.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/css/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/nice-select.css",
+      "PackagePath": "staticwebassets/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/slicknav.min.css",
+      "PackagePath": "staticwebassets/css/slicknav.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/css/themify-icons.css",
+      "PackagePath": "staticwebassets/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/faq.html",
+      "PackagePath": "staticwebassets/faq.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/ElegantIcons.eot",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.eot"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/ElegantIcons.svg",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.svg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/ElegantIcons.ttf",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.ttf"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/ElegantIcons.woff",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.woff"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/themify.eot",
+      "PackagePath": "staticwebassets/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/themify.svg",
+      "PackagePath": "staticwebassets/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/fonts/themify.woff",
+      "PackagePath": "staticwebassets/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/banner-1.jpg",
+      "PackagePath": "staticwebassets/img/banner-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/banner-2.jpg",
+      "PackagePath": "staticwebassets/img/banner-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/banner-3.jpg",
+      "PackagePath": "staticwebassets/img/banner-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-5.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-6.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-6.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-detail-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-detail-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-detail-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/blog-detail.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/next-blog.png",
+      "PackagePath": "staticwebassets/img/blog/next-blog.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/post-by.png",
+      "PackagePath": "staticwebassets/img/blog/post-by.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/prev-blog.png",
+      "PackagePath": "staticwebassets/img/blog/prev-blog.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/recent-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/recent-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/recent-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/blog/recent-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/cart-page/product-1.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/cart-page/product-2.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/cart-page/product-3.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/flag-1.jpg",
+      "PackagePath": "staticwebassets/img/flag-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/flag-2.jpg",
+      "PackagePath": "staticwebassets/img/flag-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/footer-logo.png",
+      "PackagePath": "staticwebassets/img/footer-logo.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/hero-1.jpg",
+      "PackagePath": "staticwebassets/img/hero-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/hero-2.jpg",
+      "PackagePath": "staticwebassets/img/hero-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/hero-3.jpg",
+      "PackagePath": "staticwebassets/img/hero-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/icon-1.png",
+      "PackagePath": "staticwebassets/img/icon-1.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/icon-2.png",
+      "PackagePath": "staticwebassets/img/icon-2.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/icon-3.png",
+      "PackagePath": "staticwebassets/img/icon-3.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-1.jpg",
+      "PackagePath": "staticwebassets/img/insta-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-2.jpg",
+      "PackagePath": "staticwebassets/img/insta-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-3.jpg",
+      "PackagePath": "staticwebassets/img/insta-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-4.jpg",
+      "PackagePath": "staticwebassets/img/insta-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-5.jpg",
+      "PackagePath": "staticwebassets/img/insta-5.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/insta-6.jpg",
+      "PackagePath": "staticwebassets/img/insta-6.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/latest-1.jpg",
+      "PackagePath": "staticwebassets/img/latest-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/latest-2.jpg",
+      "PackagePath": "staticwebassets/img/latest-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/latest-3.jpg",
+      "PackagePath": "staticwebassets/img/latest-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo-carousel/logo-1.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-1.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo-carousel/logo-2.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-2.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo-carousel/logo-3.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-3.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo-carousel/logo-4.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-4.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo-carousel/logo-5.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-5.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/payment-method.png",
+      "PackagePath": "staticwebassets/img/payment-method.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/avatar-1.png",
+      "PackagePath": "staticwebassets/img/product-single/avatar-1.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/avatar-2.png",
+      "PackagePath": "staticwebassets/img/product-single/avatar-2.png"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/product-1.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/product-2.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/product-3.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/tab-desc.jpg",
+      "PackagePath": "staticwebassets/img/product-single/tab-desc.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/thumb-1.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/thumb-2.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/product-single/thumb-3.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/man-1.jpg",
+      "PackagePath": "staticwebassets/img/products/man-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/man-2.jpg",
+      "PackagePath": "staticwebassets/img/products/man-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/man-3.jpg",
+      "PackagePath": "staticwebassets/img/products/man-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/man-4.jpg",
+      "PackagePath": "staticwebassets/img/products/man-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/man-large.jpg",
+      "PackagePath": "staticwebassets/img/products/man-large.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-1.jpg",
+      "PackagePath": "staticwebassets/img/products/product-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-2.jpg",
+      "PackagePath": "staticwebassets/img/products/product-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-3.jpg",
+      "PackagePath": "staticwebassets/img/products/product-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-4.jpg",
+      "PackagePath": "staticwebassets/img/products/product-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-5.jpg",
+      "PackagePath": "staticwebassets/img/products/product-5.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-6.jpg",
+      "PackagePath": "staticwebassets/img/products/product-6.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-7.jpg",
+      "PackagePath": "staticwebassets/img/products/product-7.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-8.jpg",
+      "PackagePath": "staticwebassets/img/products/product-8.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/product-9.jpg",
+      "PackagePath": "staticwebassets/img/products/product-9.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/women-1.jpg",
+      "PackagePath": "staticwebassets/img/products/women-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/women-2.jpg",
+      "PackagePath": "staticwebassets/img/products/women-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/women-3.jpg",
+      "PackagePath": "staticwebassets/img/products/women-3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/women-4.jpg",
+      "PackagePath": "staticwebassets/img/products/women-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/products/women-large.jpg",
+      "PackagePath": "staticwebassets/img/products/women-large.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/select-product-1.jpg",
+      "PackagePath": "staticwebassets/img/select-product-1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/select-product-2.jpg",
+      "PackagePath": "staticwebassets/img/select-product-2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/img/time-bg.jpg",
+      "PackagePath": "staticwebassets/img/time-bg.jpg"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/js/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/js/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery.dd.min.js",
+      "PackagePath": "staticwebassets/js/jquery.dd.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery.slicknav.js",
+      "PackagePath": "staticwebassets/js/jquery.slicknav.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/jquery.zoom.min.js",
+      "PackagePath": "staticwebassets/js/jquery.zoom.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/product.html",
+      "PackagePath": "staticwebassets/product.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/readme.txt",
+      "PackagePath": "staticwebassets/readme.txt"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/register.html",
+      "PackagePath": "staticwebassets/register.html"
+    },
+    {
+      "Id": "/Users/mehmetcanece/Desktop/eTicaretMVC/wwwroot/shopping-cart.html",
+      "PackagePath": "staticwebassets/shopping-cart.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.eTicaretMVC.props",
+      "PackagePath": "build\\eTicaretMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.eTicaretMVC.props",
+      "PackagePath": "buildMultiTargeting\\eTicaretMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.eTicaretMVC.props",
+      "PackagePath": "buildTransitive\\eTicaretMVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.eTicaretMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
