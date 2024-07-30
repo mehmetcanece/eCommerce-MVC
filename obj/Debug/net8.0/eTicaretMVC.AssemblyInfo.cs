@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eTicaretMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57b4a1676275bd2efca6cb8c6dfa00afd0af0e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6570a091ad8749cbbbc228f13c9056832d3a5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("eTicaretMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eTicaretMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
